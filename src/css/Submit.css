@@ -1,0 +1,10 @@
+.submit-btn {
+    border-radius: 8px;
+    background-color: whitesmoke;
+    color: gray;
+    width: 6rem;
+    height: 3rem;
+    font-weight: 300;
+    font-style: italic;
+    cursor: pointer;
+}

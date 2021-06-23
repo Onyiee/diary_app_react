@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100vh;
+    background: url(../assets/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    object-fit: contain;
+    padding-top: 2rem;
+}

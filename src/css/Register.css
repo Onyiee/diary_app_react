@@ -1,0 +1,30 @@
+.container {
+    height: 100vh;
+    background-color: lightgrey;   
+}
+.register {
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 50%;
+    margin-left: 2rem;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    margin-right: 1rem;
+    padding: 0.5rem;
+}
+.register input {
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 1rem;
+    outline: none;
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+.submit-btn{
+    padding: 1rem;
+}

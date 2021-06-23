@@ -1,0 +1,21 @@
+*{
+    background-color: lightgrey;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+.login input {
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 1rem;
+    outline: none;
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+
+.login label {
+    margin: 1rem;
+}
